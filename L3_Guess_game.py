@@ -1,4 +1,3 @@
-# Paste your code into this box
 x = 77
 low = 0
 high = 100
